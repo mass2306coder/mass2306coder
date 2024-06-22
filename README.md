@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mass2306coder
 - 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning Data analytics course
-- 📫 How to reach me ....mashasrinivasan23@gmail.com
+- 🌱 I’m currently learning Data analytics
+- 📫 How to reach me mashasrinivasan23@gmail.com
 
 
 <!---
